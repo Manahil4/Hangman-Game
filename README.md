@@ -1,4 +1,4 @@
-# CS-22011
+# Hangman Game
 1. The project is a requirement at the end of every semester as part of our Complex Engineering Project at Ned University.
 
 2. This project is a collaborative effort undertaken by me and one of my class mate.
